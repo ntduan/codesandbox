@@ -1,0 +1,8 @@
+{
+  "name": "play-typescript",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:ntduan/codesandbox.git",
+  "author": "Nantian <nxiiun@gmail.com>",
+  "license": "MIT"
+}
