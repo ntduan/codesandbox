@@ -4,5 +4,7 @@
   "main": "src/index.ts",
   "repository": "git@github.com:ntduan/codesandbox.git",
   "author": "Nantian <nxiiun@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
 }
